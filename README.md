@@ -38,3 +38,7 @@ cd C:\Путь\К\Папке
 python bypass_win11_requirements.py
 
 После этого запускай установку Windows 11 с ISO (setup.exe) или через Windows Update.
+
+# Благодарности
+
+Код основан на идеях из jacobnicked/Bypass-Windows-11-Requirements.
